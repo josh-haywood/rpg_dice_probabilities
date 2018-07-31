@@ -1,0 +1,13 @@
+4d6 reroll first one, drop lowest:
+  in 10,000,000 iterations
+  max = 105
+  min = 37
+  mean = 78
+  standard deviation = 6
+
+4d6 drop lowest:
+  in 10,000,000 iterations
+  max = 103
+  min = 36
+  mean = 73
+  standard deviation = 8
